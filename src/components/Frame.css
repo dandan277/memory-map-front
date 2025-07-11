@@ -1,0 +1,21 @@
+.app-frame-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fff; 
+}
+
+.app-frame {
+  width: 402px;
+  height: 874px;
+  background-color: #292A33;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #333;
+  border-radius: 30px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+
+  transform: scale(1.5);             
+  transform-origin: top center;     
+}

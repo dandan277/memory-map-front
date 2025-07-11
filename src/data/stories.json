@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "우리 동네 추억의 떡볶이집",
+    "location": "서울시 성북구",
+    "img": "https://via.placeholder.com/300x180.png?text=Story+1"
+  },
+  {
+    "id": 2,
+    "title": "밤에 걸으면 기분 좋은 공원",
+    "location": "서울시 종로구",
+    "img": "https://via.placeholder.com/300x180.png?text=Story+2"
+  }
+]
